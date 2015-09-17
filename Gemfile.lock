@@ -22,6 +22,8 @@ GEM
       rack
     rethinkdb (2.1.0.1)
       json
+    shotgun (0.9.1)
+      rack (>= 1.0)
     sinatra (1.4.6)
       rack (~> 1.4)
       rack-protection (~> 1.4)
@@ -35,6 +37,7 @@ DEPENDENCIES
   aws-sdk (~> 2)
   crowdflower
   rethinkdb
+  shotgun
   sinatra
 
 BUNDLED WITH
