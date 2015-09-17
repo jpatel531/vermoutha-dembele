@@ -1,0 +1,21 @@
+{
+  "name": "vermoutha-dembele",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jpatel531/vermoutha-dembele",
+  "authors": [
+    "Jamie Patel <jamie@notespublication.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "jquery": "~2.1.4"
+  }
+}
