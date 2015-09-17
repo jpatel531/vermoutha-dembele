@@ -1,5 +1,7 @@
 var Dembele = React.createClass({
 
+  
+
   render: function() {
     return (
       <h1>Hello World </h1>
@@ -8,4 +10,4 @@ var Dembele = React.createClass({
 
 });
 
-React.render(<Dembele />, document.getElementByID('app'));
+React.render(<Dembele />, document.getElementById('app'));
